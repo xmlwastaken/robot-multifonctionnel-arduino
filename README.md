@@ -173,12 +173,7 @@ bluetooth-obstacle-car/
 
 ## 👥 Auteurs / Authors
 
-**LAAMRI Mohamed** — [laamrimohamed01@gmail.com](mailto:laamrimohamed01@gmail.com)  
-**BELEKHBIZI Slimane**
-
-Encadré par / Supervised by: **Mme TEBAY Imane**  
-**3IAII — Année universitaire 2024-2025**
-
+**LAAMRI Mohamed** — [laamrimohamed01@gmail.com](mailto:laamrimohamed01@gmail.com)
 ## 📄 Licence / License
 
 Projet éducatif PFA — réutilisation libre.
